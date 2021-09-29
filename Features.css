@@ -1,0 +1,127 @@
+.u-section-2-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2-1 .u-text-1 {
+  margin: 82px auto 0;
+}
+
+.u-section-2-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 45px 59px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+  }
+}.u-section-2-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2-2 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 82px auto 0;
+}
+
+.u-section-2-2 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 45px 59px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-text-1 {
+    font-size: 3rem;
+  }
+}.u-section-2-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2-3 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 82px auto 0;
+}
+
+.u-section-2-3 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 45px 59px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-3 .u-text-1 {
+    font-size: 3rem;
+  }
+}.u-section-2-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2-4 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 82px auto 0;
+}
+
+.u-section-2-4 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 45px 59px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-4 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-4 .u-text-1 {
+    font-size: 3rem;
+  }
+}.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 117px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  animation-duration: 1000ms;
+  font-style: italic;
+}.u-block-1f37-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-1f37-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-1f37-4 {
+  position: absolute;
+  right: 0;
+}

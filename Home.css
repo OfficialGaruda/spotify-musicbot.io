@@ -1,0 +1,174 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 126px;
+  height: 126px;
+  animation-duration: 1000ms;
+  background-image: url("images/Spotify.jpg");
+  background-position: 50% 50%;
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  font-size: 4.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  animation-duration: 1000ms;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 10px 0 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.25rem;
+    font-family: Roboto, sans-serif;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.125rem;
+    width: auto;
+    margin-top: 31px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 534px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 83px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 50px auto 0 164px;
+  padding: 22px 50px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -66px auto 0 373px;
+  padding: 22px 50px;
+}
+
+.u-section-2 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -66px 380px 0 auto;
+  padding: 22px 50px;
+}
+
+.u-section-2 .u-btn-4 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -66px 171px 0 auto;
+  padding: 22px 50px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 143px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-left: 173px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 180px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-top: 20px;
+    margin-right: 161px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 161px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-top: -66px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.25rem;
+    width: 267px;
+    margin-top: -90px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 67px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 70px auto 60px;
+  padding: 24px 261px 26px 260px;
+}
