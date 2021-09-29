@@ -34672,7 +34672,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
+@media (max-width: 767px) {
+  .u-footer .u-sheet-1 {
+    min-height: 65px;
+  }
 
+  .u-footer .u-btn-1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
 
 
  /*begin-variables base-font-size*/ 
